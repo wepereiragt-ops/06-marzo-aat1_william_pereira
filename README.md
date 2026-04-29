@@ -1,3 +1,4 @@
+![INTECAP](/imagenes/logo-intecap.png)
 # Actividad de Aprendizaje Trabajo 1
 
 ## Maquetación de una Página Web con Tablas
@@ -7,7 +8,6 @@ Página web creada exclusivamente con HTML utilizando principalmente tablas para
 [Ferroguate.com](/intecap-william-tareas.atwebpages.com/aat1_william_pereira)
 
 ### Fecha 
-![INTECAP](/imagenes/logo-intecap.png)
 06 de Marzo de 2026
 
 ### Descripción
